@@ -1,0 +1,1118 @@
+{
+  "target": "BMG",
+  "mode": "fixed",
+  "elements": [
+    "Zr",
+    "Cu",
+    "Al",
+    "Ni"
+  ],
+  "config": {
+    "n_generations": 5,
+    "batch_size": 20,
+    "threshold": 0.01
+  },
+  "total_time_seconds": 5.2,
+  "top_candidates": [
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Al": 31.51,
+        "Cu": 29.44,
+        "Ni": 21.92,
+        "Zr": 17.14
+      },
+      "composition_str": "Al31.5Cu29.4Ni21.9Zr17.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 641.95,
+        "Tx": 776.99,
+        "Tl": 1141.58,
+        "E": 116.28,
+        "H": 6.29
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Al": 28.59,
+        "Cu": 27.06,
+        "Ni": 22.74,
+        "Zr": 21.61
+      },
+      "composition_str": "Al28.6Cu27.1Ni22.7Zr21.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 675.41,
+        "Tx": 779.5,
+        "Tl": 1175.0,
+        "E": 116.94,
+        "H": 6.35
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Zr": 32.9,
+        "Al": 25.02,
+        "Cu": 24.69,
+        "Ni": 17.39
+      },
+      "composition_str": "Zr32.9Al25.0Cu24.7Ni17.4",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 706.24,
+        "Tx": 783.59,
+        "Tl": 1171.04,
+        "E": 106.97,
+        "H": 6.22
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Al": 29.63,
+        "Zr": 25.26,
+        "Ni": 23.14,
+        "Cu": 21.98
+      },
+      "composition_str": "Al29.6Zr25.3Ni23.1Cu22.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 692.86,
+        "Tx": 786.43,
+        "Tl": 1177.5,
+        "E": 113.0,
+        "H": 6.43
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Al": 25.97,
+        "Cu": 25.78,
+        "Zr": 25.64,
+        "Ni": 22.6
+      },
+      "composition_str": "Al26.0Cu25.8Zr25.6Ni22.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 694.25,
+        "Tx": 782.37,
+        "Tl": 1183.08,
+        "E": 114.53,
+        "H": 6.36
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Ni": 30.04,
+        "Cu": 23.9,
+        "Zr": 23.26,
+        "Al": 22.8
+      },
+      "composition_str": "Ni30.0Cu23.9Zr23.3Al22.8",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 692.66,
+        "Tx": 789.63,
+        "Tl": 1199.6,
+        "E": 120.37,
+        "H": 6.53
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Cu": 31.14,
+        "Zr": 27.86,
+        "Al": 25.7,
+        "Ni": 15.3
+      },
+      "composition_str": "Cu31.1Zr27.9Al25.7Ni15.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 697.11,
+        "Tx": 772.17,
+        "Tl": 1174.55,
+        "E": 110.38,
+        "H": 6.15
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Zr": 26.4,
+        "Ni": 26.2,
+        "Cu": 23.85,
+        "Al": 23.55
+      },
+      "composition_str": "Zr26.4Ni26.2Cu23.9Al23.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 698.79,
+        "Tx": 788.33,
+        "Tl": 1195.24,
+        "E": 115.94,
+        "H": 6.46
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Ni": 27.08,
+        "Al": 24.86,
+        "Cu": 24.18,
+        "Zr": 23.87
+      },
+      "composition_str": "Ni27.1Al24.9Cu24.2Zr23.9",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 692.12,
+        "Tx": 786.69,
+        "Tl": 1193.25,
+        "E": 117.78,
+        "H": 6.49
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 0,
+      "composition": {
+        "Al": 30.8,
+        "Cu": 30.43,
+        "Zr": 21.46,
+        "Ni": 17.3
+      },
+      "composition_str": "Al30.8Cu30.4Zr21.5Ni17.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 669.29,
+        "Tx": 772.47,
+        "Tl": 1164.69,
+        "E": 114.18,
+        "H": 6.19
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Al": 35.05,
+        "Ni": 24.25,
+        "Zr": 22.48,
+        "Cu": 18.22
+      },
+      "composition_str": "Al35.0Ni24.2Zr22.5Cu18.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 684.73,
+        "Tx": 786.8,
+        "Tl": 1169.37,
+        "E": 112.73,
+        "H": 6.51
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Zr": 27.52,
+        "Al": 26.02,
+        "Ni": 24.23,
+        "Cu": 22.22
+      },
+      "composition_str": "Zr27.5Al26.0Ni24.2Cu22.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 700.58,
+        "Tx": 793.81,
+        "Tl": 1184.69,
+        "E": 112.98,
+        "H": 6.46
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Cu": 30.85,
+        "Ni": 26.96,
+        "Al": 23.56,
+        "Zr": 18.63
+      },
+      "composition_str": "Cu30.9Ni27.0Al23.6Zr18.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 663.72,
+        "Tx": 779.92,
+        "Tl": 1174.76,
+        "E": 122.64,
+        "H": 6.36
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Zr": 33.56,
+        "Cu": 26.98,
+        "Ni": 20.42,
+        "Al": 19.04
+      },
+      "composition_str": "Zr33.6Cu27.0Ni20.4Al19.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 711.71,
+        "Tx": 792.85,
+        "Tl": 1186.05,
+        "E": 109.52,
+        "H": 6.2
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Al": 27.35,
+        "Ni": 26.18,
+        "Cu": 24.91,
+        "Zr": 21.56
+      },
+      "composition_str": "Al27.4Ni26.2Cu24.9Zr21.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 680.11,
+        "Tx": 784.05,
+        "Tl": 1182.2,
+        "E": 118.35,
+        "H": 6.46
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Al": 29.05,
+        "Cu": 27.53,
+        "Zr": 26.38,
+        "Ni": 17.03
+      },
+      "composition_str": "Al29.1Cu27.5Zr26.4Ni17.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 692.52,
+        "Tx": 772.02,
+        "Tl": 1168.72,
+        "E": 110.81,
+        "H": 6.21
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Cu": 30.03,
+        "Al": 28.25,
+        "Ni": 23.48,
+        "Zr": 18.25
+      },
+      "composition_str": "Cu30.0Al28.2Ni23.5Zr18.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 654.66,
+        "Tx": 777.84,
+        "Tl": 1164.29,
+        "E": 118.55,
+        "H": 6.33
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Al": 29.68,
+        "Ni": 26.9,
+        "Cu": 21.95,
+        "Zr": 21.47
+      },
+      "composition_str": "Al29.7Ni26.9Cu21.9Zr21.5",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 681.98,
+        "Tx": 786.57,
+        "Tl": 1182.8,
+        "E": 116.79,
+        "H": 6.51
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Cu": 28.6,
+        "Al": 26.63,
+        "Zr": 24.44,
+        "Ni": 20.33
+      },
+      "composition_str": "Cu28.6Al26.6Zr24.4Ni20.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 687.15,
+        "Tx": 778.17,
+        "Tl": 1178.75,
+        "E": 114.75,
+        "H": 6.27
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 1,
+      "composition": {
+        "Cu": 32.82,
+        "Al": 25.59,
+        "Zr": 24.37,
+        "Ni": 17.23
+      },
+      "composition_str": "Cu32.8Al25.6Zr24.4Ni17.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 686.01,
+        "Tx": 774.59,
+        "Tl": 1182.17,
+        "E": 114.57,
+        "H": 6.19
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Cu": 33.69,
+        "Zr": 29.65,
+        "Ni": 19.07,
+        "Al": 17.59
+      },
+      "composition_str": "Cu33.7Zr29.6Ni19.1Al17.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 707.64,
+        "Tx": 778.18,
+        "Tl": 1188.91,
+        "E": 114.32,
+        "H": 6.15
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Al": 28.88,
+        "Cu": 27.3,
+        "Ni": 22.28,
+        "Zr": 21.54
+      },
+      "composition_str": "Al28.9Cu27.3Ni22.3Zr21.5",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 674.41,
+        "Tx": 779.04,
+        "Tl": 1173.94,
+        "E": 116.75,
+        "H": 6.33
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Cu": 38.4,
+        "Al": 24.7,
+        "Zr": 24.69,
+        "Ni": 12.21
+      },
+      "composition_str": "Cu38.4Al24.7Zr24.7Ni12.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 688.44,
+        "Tx": 772.02,
+        "Tl": 1182.3,
+        "E": 112.82,
+        "H": 6.08
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Zr": 29.6,
+        "Al": 26.99,
+        "Ni": 22.09,
+        "Cu": 21.33
+      },
+      "composition_str": "Zr29.6Al27.0Ni22.1Cu21.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 704.52,
+        "Tx": 797.21,
+        "Tl": 1181.73,
+        "E": 110.17,
+        "H": 6.43
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Al": 34.9,
+        "Cu": 22.95,
+        "Zr": 22.18,
+        "Ni": 19.96
+      },
+      "composition_str": "Al34.9Cu22.9Zr22.2Ni20.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 676.12,
+        "Tx": 775.03,
+        "Tl": 1158.6,
+        "E": 112.66,
+        "H": 6.32
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Al": 29.02,
+        "Zr": 26.26,
+        "Cu": 23.75,
+        "Ni": 20.96
+      },
+      "composition_str": "Al29.0Zr26.3Cu23.8Ni21.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 694.29,
+        "Tx": 782.21,
+        "Tl": 1174.0,
+        "E": 111.98,
+        "H": 6.35
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Al": 31.92,
+        "Ni": 24.66,
+        "Cu": 23.01,
+        "Zr": 20.41
+      },
+      "composition_str": "Al31.9Ni24.7Cu23.0Zr20.4",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 672.38,
+        "Tx": 782.59,
+        "Tl": 1170.16,
+        "E": 116.11,
+        "H": 6.44
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Cu": 26.86,
+        "Ni": 26.76,
+        "Zr": 25.69,
+        "Al": 20.69
+      },
+      "composition_str": "Cu26.9Ni26.8Zr25.7Al20.7",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 697.81,
+        "Tx": 785.56,
+        "Tl": 1197.4,
+        "E": 119.01,
+        "H": 6.39
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Al": 26.4,
+        "Zr": 26.39,
+        "Cu": 24.01,
+        "Ni": 23.2
+      },
+      "composition_str": "Al26.4Zr26.4Cu24.0Ni23.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 696.47,
+        "Tx": 785.91,
+        "Tl": 1182.53,
+        "E": 113.73,
+        "H": 6.4
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 2,
+      "composition": {
+        "Al": 36.84,
+        "Cu": 25.7,
+        "Ni": 23.09,
+        "Zr": 14.37
+      },
+      "composition_str": "Al36.8Cu25.7Ni23.1Zr14.4",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 618.99,
+        "Tx": 778.54,
+        "Tl": 1093.25,
+        "E": 113.29,
+        "H": 6.31
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Al": 34.71,
+        "Cu": 24.58,
+        "Zr": 21.16,
+        "Ni": 19.54
+      },
+      "composition_str": "Al34.7Cu24.6Zr21.2Ni19.5",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 669.76,
+        "Tx": 774.65,
+        "Tl": 1156.96,
+        "E": 113.46,
+        "H": 6.28
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Al": 31.07,
+        "Zr": 28.66,
+        "Cu": 26.22,
+        "Ni": 14.06
+      },
+      "composition_str": "Al31.1Zr28.7Cu26.2Ni14.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 693.89,
+        "Tx": 763.3,
+        "Tl": 1158.7,
+        "E": 108.64,
+        "H": 6.16
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Al": 30.71,
+        "Zr": 25.87,
+        "Cu": 22.84,
+        "Ni": 20.58
+      },
+      "composition_str": "Al30.7Zr25.9Cu22.8Ni20.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 692.69,
+        "Tx": 780.98,
+        "Tl": 1170.33,
+        "E": 111.56,
+        "H": 6.36
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Cu": 29.77,
+        "Al": 26.61,
+        "Ni": 25.06,
+        "Zr": 18.57
+      },
+      "composition_str": "Cu29.8Al26.6Ni25.1Zr18.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 659.5,
+        "Tx": 779.02,
+        "Tl": 1169.79,
+        "E": 120.0,
+        "H": 6.36
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Cu": 27.7,
+        "Ni": 27.12,
+        "Al": 25.22,
+        "Zr": 19.95
+      },
+      "composition_str": "Cu27.7Ni27.1Al25.2Zr19.9",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 671.41,
+        "Tx": 782.83,
+        "Tl": 1181.7,
+        "E": 121.14,
+        "H": 6.44
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Cu": 27.69,
+        "Al": 27.19,
+        "Ni": 24.57,
+        "Zr": 20.55
+      },
+      "composition_str": "Cu27.7Al27.2Ni24.6Zr20.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 671.2,
+        "Tx": 780.62,
+        "Tl": 1178.26,
+        "E": 118.91,
+        "H": 6.38
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Al": 28.89,
+        "Cu": 27.07,
+        "Ni": 24.25,
+        "Zr": 19.78
+      },
+      "composition_str": "Al28.9Cu27.1Ni24.2Zr19.8",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 665.86,
+        "Tx": 780.22,
+        "Tl": 1172.75,
+        "E": 118.1,
+        "H": 6.38
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Cu": 30.58,
+        "Al": 25.26,
+        "Zr": 23.91,
+        "Ni": 20.25
+      },
+      "composition_str": "Cu30.6Al25.3Zr23.9Ni20.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 685.39,
+        "Tx": 777.17,
+        "Tl": 1182.45,
+        "E": 116.13,
+        "H": 6.25
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Zr": 30.89,
+        "Al": 28.22,
+        "Ni": 21.18,
+        "Cu": 19.71
+      },
+      "composition_str": "Zr30.9Al28.2Ni21.2Cu19.7",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 705.16,
+        "Tx": 797.98,
+        "Tl": 1181.31,
+        "E": 108.76,
+        "H": 6.44
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 3,
+      "composition": {
+        "Cu": 31.21,
+        "Al": 25.44,
+        "Zr": 25.29,
+        "Ni": 18.06
+      },
+      "composition_str": "Cu31.2Al25.4Zr25.3Ni18.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 690.11,
+        "Tx": 775.7,
+        "Tl": 1180.79,
+        "E": 113.92,
+        "H": 6.21
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Cu": 30.01,
+        "Zr": 28.45,
+        "Al": 26.21,
+        "Ni": 15.33
+      },
+      "composition_str": "Cu30.0Zr28.4Al26.2Ni15.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 698.14,
+        "Tx": 771.61,
+        "Tl": 1171.25,
+        "E": 109.65,
+        "H": 6.16
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Al": 27.21,
+        "Ni": 25.14,
+        "Cu": 24.49,
+        "Zr": 23.16
+      },
+      "composition_str": "Al27.2Ni25.1Cu24.5Zr23.2",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 687.04,
+        "Tx": 783.93,
+        "Tl": 1185.35,
+        "E": 116.71,
+        "H": 6.44
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Ni": 29.2,
+        "Al": 28.85,
+        "Cu": 25.12,
+        "Zr": 16.84
+      },
+      "composition_str": "Ni29.2Al28.9Cu25.1Zr16.8",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 655.77,
+        "Tx": 784.02,
+        "Tl": 1161.42,
+        "E": 119.97,
+        "H": 6.49
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Al": 29.38,
+        "Ni": 25.78,
+        "Cu": 23.75,
+        "Zr": 21.1
+      },
+      "composition_str": "Al29.4Ni25.8Cu23.8Zr21.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 677.49,
+        "Tx": 783.71,
+        "Tl": 1177.67,
+        "E": 117.33,
+        "H": 6.46
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Zr": 28.9,
+        "Cu": 27.89,
+        "Al": 26.28,
+        "Ni": 16.93
+      },
+      "composition_str": "Zr28.9Cu27.9Al26.3Ni16.9",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 699.65,
+        "Tx": 774.24,
+        "Tl": 1169.93,
+        "E": 109.6,
+        "H": 6.19
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Al": 29.55,
+        "Cu": 27.96,
+        "Zr": 22.0,
+        "Ni": 20.49
+      },
+      "composition_str": "Al29.6Cu28.0Zr22.0Ni20.5",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 674.91,
+        "Tx": 777.46,
+        "Tl": 1171.99,
+        "E": 115.6,
+        "H": 6.28
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Cu": 27.38,
+        "Al": 26.75,
+        "Ni": 25.74,
+        "Zr": 20.13
+      },
+      "composition_str": "Cu27.4Al26.8Ni25.7Zr20.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 670.28,
+        "Tx": 781.68,
+        "Tl": 1179.98,
+        "E": 119.68,
+        "H": 6.41
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Cu": 31.17,
+        "Zr": 28.04,
+        "Al": 23.15,
+        "Ni": 17.64
+      },
+      "composition_str": "Cu31.2Zr28.0Al23.1Ni17.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 700.16,
+        "Tx": 776.95,
+        "Tl": 1180.09,
+        "E": 112.18,
+        "H": 6.19
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Zr": 29.44,
+        "Al": 27.09,
+        "Cu": 22.32,
+        "Ni": 21.15
+      },
+      "composition_str": "Zr29.4Al27.1Cu22.3Ni21.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 703.32,
+        "Tx": 793.29,
+        "Tl": 1176.92,
+        "E": 109.99,
+        "H": 6.39
+      }
+    },
+    {
+      "fitness": 1.0,
+      "generation": 4,
+      "composition": {
+        "Al": 32.83,
+        "Ni": 24.22,
+        "Zr": 21.55,
+        "Cu": 21.4
+      },
+      "composition_str": "Al32.8Ni24.2Zr21.6Cu21.4",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 678.61,
+        "Tx": 783.98,
+        "Tl": 1172.14,
+        "E": 114.56,
+        "H": 6.45
+      }
+    }
+  ]
+}

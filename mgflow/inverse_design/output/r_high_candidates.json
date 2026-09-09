@@ -1,0 +1,211 @@
+{
+  "candidates": [
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 125.19,
+      "R_std": 12.9688,
+      "composition": {
+        "Zr": 17.18,
+        "Hf": 15.46,
+        "Ti": 7.52
+      },
+      "composition_str": "Zr17.2Hf15.5Ti7.5"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 125.1,
+      "R_std": 12.869,
+      "composition": {
+        "Zr": 19.6,
+        "Hf": 15.07,
+        "Ti": 8.27
+      },
+      "composition_str": "Zr19.6Hf15.1Ti8.3"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 122.41,
+      "R_std": 6.9894,
+      "composition": {
+        "Zr": 34.38,
+        "Ti": 33.75,
+        "Co": 13.36
+      },
+      "composition_str": "Zr34.4Ti33.8Co13.4"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 121.89,
+      "R_std": 6.8309,
+      "composition": {
+        "Ti": 31.68,
+        "Zr": 27.22,
+        "Co": 10.7
+      },
+      "composition_str": "Ti31.7Zr27.2Co10.7"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 121.67,
+      "R_std": 6.6403,
+      "composition": {
+        "Ti": 42.9,
+        "Zr": 37.14,
+        "Co": 17.44
+      },
+      "composition_str": "Ti42.9Zr37.1Co17.4"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 121.39,
+      "R_std": 6.5575,
+      "composition": {
+        "Ti": 45.52,
+        "Zr": 36.32,
+        "Co": 16.94
+      },
+      "composition_str": "Ti45.5Zr36.3Co16.9"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 121.29,
+      "R_std": 7.5327,
+      "composition": {
+        "Ti": 46.63,
+        "Zr": 40.24,
+        "Co": 8.63
+      },
+      "composition_str": "Ti46.6Zr40.2Co8.6"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 120.34,
+      "R_std": 11.5341,
+      "composition": {
+        "Hf": 23.57,
+        "Zr": 18.08,
+        "Ti": 3.06
+      },
+      "composition_str": "Hf23.6Zr18.1Ti3.1"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 120.17,
+      "R_std": 11.5243,
+      "composition": {
+        "Zr": 18.85,
+        "Hf": 16.89,
+        "Ti": 1.35
+      },
+      "composition_str": "Zr18.9Hf16.9Ti1.4"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 119.92,
+      "R_std": 10.7119,
+      "composition": {
+        "Ti": 23.97,
+        "Zr": 21.35,
+        "Hf": 7.49
+      },
+      "composition_str": "Ti24.0Zr21.4Hf7.5"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 119.79,
+      "R_std": 11.1272,
+      "composition": {
+        "Hf": 22.27,
+        "Ti": 12.75,
+        "Zr": 8.04
+      },
+      "composition_str": "Hf22.3Ti12.8Zr8.0"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 119.33,
+      "R_std": 8.0065,
+      "composition": {
+        "Ti": 50.03,
+        "Zr": 44.35,
+        "Co": 4.37
+      },
+      "composition_str": "Ti50.0Zr44.4Co4.4"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 119.15,
+      "R_std": 10.6817,
+      "composition": {
+        "Hf": 18.89,
+        "Ti": 14.7,
+        "Zr": 5.96
+      },
+      "composition_str": "Hf18.9Ti14.7Zr6.0"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 119.04,
+      "R_std": 8.1485,
+      "composition": {
+        "Ti": 49.07,
+        "Zr": 44.62,
+        "Co": 3.65
+      },
+      "composition_str": "Ti49.1Zr44.6Co3.6"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 118.64,
+      "R_std": 5.5033,
+      "composition": {
+        "Ti": 51.31,
+        "Zr": 27.54,
+        "Co": 16.83
+      },
+      "composition_str": "Ti51.3Zr27.5Co16.8"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 118.6,
+      "R_std": 2.23,
+      "composition": {
+        "Zr": 47.52,
+        "Co": 46.55,
+        "Ti": 1.27
+      },
+      "composition_str": "Zr47.5Co46.5Ti1.3"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 118.59,
+      "R_std": 2.0741,
+      "composition": {
+        "Co": 42.86,
+        "Zr": 37.2,
+        "Ti": 5.61
+      },
+      "composition_str": "Co42.9Zr37.2Ti5.6"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 118.58,
+      "R_std": 2.1817,
+      "composition": {
+        "Co": 45.69,
+        "Zr": 41.02,
+        "Ti": 7.24
+      },
+      "composition_str": "Co45.7Zr41.0Ti7.2"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 118.56,
+      "R_std": 6.8653,
+      "composition": {
+        "Ti": 53.12,
+        "Zr": 35.7,
+        "Co": 7.49
+      },
+      "composition_str": "Ti53.1Zr35.7Co7.5"
+    },
+    {
+      "R (\u00b5\u03a9\u00b7cm)": 118.53,
+      "R_std": 2.3303,
+      "composition": {
+        "Zr": 46.96,
+        "Co": 41.65,
+        "Ti": 1.29
+      },
+      "composition_str": "Zr47.0Co41.6Ti1.3"
+    }
+  ],
+  "history": {
+    "n_sampled": 8000,
+    "n_valid": 86,
+    "n_returned": 20,
+    "lat_evo_steps": 8,
+    "time_seconds": 0.5
+  }
+}

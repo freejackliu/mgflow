@@ -1,0 +1,249 @@
+{
+  "target": "Tl_high",
+  "mode": "fixed",
+  "elements": [
+    "Ta",
+    "Hf",
+    "Nb",
+    "Ni",
+    "Co"
+  ],
+  "config": {
+    "n_generations": 30,
+    "batch_size": 100,
+    "threshold": 0.01
+  },
+  "total_time_seconds": 195.2,
+  "top_candidates": [
+    {
+      "fitness": 1557.8872,
+      "generation": 3,
+      "composition": {
+        "Ta": 26.78,
+        "Nb": 26.67,
+        "Ni": 18.41,
+        "Co": 17.15,
+        "Hf": 10.98
+      },
+      "composition_str": "Ta26.8Nb26.7Ni18.4Co17.1Hf11.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 0.99,
+        "Tg": 787.51,
+        "Tx": 802.37,
+        "Tl": 1557.89,
+        "E": 133.6,
+        "H": 8.95
+      }
+    },
+    {
+      "fitness": 1554.6194,
+      "generation": 3,
+      "composition": {
+        "Ta": 30.17,
+        "Nb": 23.91,
+        "Ni": 15.93,
+        "Hf": 15.39,
+        "Co": 14.61
+      },
+      "composition_str": "Ta30.2Nb23.9Ni15.9Hf15.4Co14.6",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 0.99,
+        "Tg": 768.26,
+        "Tx": 791.48,
+        "Tl": 1554.62,
+        "E": 118.39,
+        "H": 8.77
+      }
+    },
+    {
+      "fitness": 1552.1766,
+      "generation": 19,
+      "composition": {
+        "Ta": 27.85,
+        "Ni": 25.31,
+        "Nb": 23.25,
+        "Hf": 12.84,
+        "Co": 10.75
+      },
+      "composition_str": "Ta27.9Ni25.3Nb23.2Hf12.8Co10.8",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 785.11,
+        "Tx": 811.53,
+        "Tl": 1552.18,
+        "E": 135.36,
+        "H": 8.8
+      }
+    },
+    {
+      "fitness": 1551.4595,
+      "generation": 15,
+      "composition": {
+        "Ta": 25.87,
+        "Nb": 25.58,
+        "Ni": 23.09,
+        "Co": 15.4,
+        "Hf": 10.06
+      },
+      "composition_str": "Ta25.9Nb25.6Ni23.1Co15.4Hf10.1",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 796.24,
+        "Tx": 814.11,
+        "Tl": 1551.46,
+        "E": 140.18,
+        "H": 8.97
+      }
+    },
+    {
+      "fitness": 1547.7263,
+      "generation": 29,
+      "composition": {
+        "Ta": 25.78,
+        "Nb": 25.65,
+        "Ni": 20.7,
+        "Co": 16.04,
+        "Hf": 11.84
+      },
+      "composition_str": "Ta25.8Nb25.6Ni20.7Co16.0Hf11.8",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 0.99,
+        "Tg": 787.0,
+        "Tx": 804.95,
+        "Tl": 1547.73,
+        "E": 134.65,
+        "H": 8.88
+      }
+    },
+    {
+      "fitness": 1546.7355,
+      "generation": 14,
+      "composition": {
+        "Nb": 27.08,
+        "Ta": 25.19,
+        "Ni": 19.92,
+        "Co": 14.11,
+        "Hf": 13.7
+      },
+      "composition_str": "Nb27.1Ta25.2Ni19.9Co14.1Hf13.7",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 0.99,
+        "Tg": 775.42,
+        "Tx": 796.86,
+        "Tl": 1546.74,
+        "E": 127.56,
+        "H": 8.77
+      }
+    },
+    {
+      "fitness": 1546.5951,
+      "generation": 2,
+      "composition": {
+        "Nb": 26.0,
+        "Ta": 25.4,
+        "Ni": 22.22,
+        "Co": 14.04,
+        "Hf": 12.33
+      },
+      "composition_str": "Nb26.0Ta25.4Ni22.2Co14.0Hf12.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 0.99,
+        "Tg": 784.22,
+        "Tx": 804.92,
+        "Tl": 1546.6,
+        "E": 133.91,
+        "H": 8.84
+      }
+    },
+    {
+      "fitness": 1545.6973,
+      "generation": 0,
+      "composition": {
+        "Ta": 29.93,
+        "Ni": 23.71,
+        "Nb": 18.48,
+        "Hf": 14.53,
+        "Co": 13.35
+      },
+      "composition_str": "Ta29.9Ni23.7Nb18.5Hf14.5Co13.3",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 786.19,
+        "Tx": 813.85,
+        "Tl": 1545.7,
+        "E": 134.28,
+        "H": 8.72
+      }
+    },
+    {
+      "fitness": 1544.8917,
+      "generation": 12,
+      "composition": {
+        "Ta": 26.69,
+        "Nb": 24.44,
+        "Ni": 19.02,
+        "Hf": 15.39,
+        "Co": 14.46
+      },
+      "composition_str": "Ta26.7Nb24.4Ni19.0Hf15.4Co14.5",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 773.01,
+        "Tx": 795.19,
+        "Tl": 1544.89,
+        "E": 124.17,
+        "H": 8.69
+      }
+    },
+    {
+      "fitness": 1543.8495,
+      "generation": 6,
+      "composition": {
+        "Nb": 29.02,
+        "Ta": 23.67,
+        "Ni": 18.8,
+        "Hf": 14.48,
+        "Co": 14.04
+      },
+      "composition_str": "Nb29.0Ta23.7Ni18.8Hf14.5Co14.0",
+      "properties": {
+        "MG": 1,
+        "BMG": 1,
+        "Ribbon": 0,
+        "BMG_prob": 1.0,
+        "Tg": 769.85,
+        "Tx": 792.12,
+        "Tl": 1543.85,
+        "E": 123.83,
+        "H": 8.74
+      }
+    }
+  ]
+}
